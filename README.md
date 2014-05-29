@@ -42,7 +42,7 @@ Ice skating at the [Winter Lodge](http://winterlodge.com/) (closed during Summer
 
 Rooftop hot tub at the Four Seasons: Supposedly there is a waterfall! This sounds pretty epic.
 
-> 2. Visiting the rooftop hot tub at the Four Seasons. It has really intense and pretty lights, and the pool is super warm. And there's a waterfall! A hot waterfall! It's totally romantic -- or, if you want to go with someone who's just a friend, that's totally fun, too. Because why are pools so beautiful?
+> Visiting the rooftop hot tub at the Four Seasons. It has really intense and pretty lights, and the pool is super warm. And there's a waterfall! A hot waterfall! It's totally romantic -- or, if you want to go with someone who's just a friend, that's totally fun, too. Because why are pools so beautiful?
 
 > You can go about this a few ways. Either just walk in and take the elevator to the 4th (I think?) floor. Or, if that would make you feel guilty, start out at Quattro, the bar/restaurant downstairs. After a $16 cocktail or two each, you'll probably feel a more justified -- plus, why not make a night out of it? Or, if you're a real goody two-shoes, you could actually just get a room for the night, depending on your budget.
 
