@@ -258,3 +258,5 @@ San Francisco.
 ### Next Steps
 
 Star the repository on GitHub.
+
+Issue a pull request! (Or [edit right now using Prose](http://prose.io/#cjbarber/SiliconValleyThingsToDo/edit/master/README.md))
