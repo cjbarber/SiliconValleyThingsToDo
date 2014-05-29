@@ -80,15 +80,21 @@ The Dish
 
 Baylands Park
 
-![Baylands Park](https://phaven-prod.s3.amazonaws.com/files/image_part/asset/1156146/GOvshsTRaPJibYwd8Vt_Lxej2MM/medium_baylands-park-palo-alto.jpg)
+![Baylands Park](baylands-park-palo-alto.jpg)
 
 Image Source: [Flickr](https://www.flickr.com/photos/12523960@N06/11451117946/in/photolist-irTYq3-irTSQW-akAwCN-jsZaub-irUduc-avYy53-iqDnG6-bnYaWo-bAT12a-hLdKh1-9WvWzj-dMLagY-7P41wf-bAT18a-bAT1h8-bAT1ya-bnYab7-bnY9TA-bnY9Mo-bnYa3A-7NZ22K-iqCSMW-9yS7x8-7P41td-9EjCyH-9EjCoX-9CJ3TQ-9GrWnV-9CF8vv-9GuQhb-9CF8Kr-9EnxTq-9GrVYk-9CF8oK-9EjCHz)
 
 Bell's Books
 
+![Bell's Books](bells-books-palo-alto.jpg)
+
 Kepler's Books in Menlo Park
 
+![Kepler's Books](keplers-books-menlo-park.jpg)
+
 [Foothills Park](http://www.cityofpaloalto.org/gov/depts/csd/parks/preserves/foothills.asp) (Residents of Palo Alto only. Soon to test to see if a Stanford Student ID is sufficient proof-of-residence)
+
+![Foothills Park](foothills-park-palo-alto.jpg)
 
 Bowling Zone in Sunnyvale, 18 minute drive
 
