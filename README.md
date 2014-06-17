@@ -266,3 +266,12 @@ San Francisco.
 Star the repository on GitHub.
 
 Issue a pull request! (Or [edit right now using Prose](http://prose.io/#cjbarber/SiliconValleyThingsToDo/edit/master/README.md))
+
+I'll tweet major updates, so [follow me here](https://twitter.com/chrisbarber).
+
+More GitHub repos you might also like:
+
+ * [HN Tools of the Trade - Software and apps for startup entrepreneurs](https://github.com/cjbarber/ToolsOfTheTrade)
+ * [Best Startup CRM Comparison](https://github.com/cjbarber/best-crm-for-startups)
+ * [Bay Area Housing Guide](https://github.com/cjbarber/BayAreaHousing)
+ * [Docpad - a fantastic node.js static site generator](https://github.com/docpad/twitter-bootstrap-jade.docpad)
