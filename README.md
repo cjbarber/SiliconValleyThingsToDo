@@ -117,7 +117,7 @@ Lawn Bowls at the Palo Alto Lawn Bowls Club
 
 Hiking/mountain biking/picnicking at the [Pearson-Arastradero Preserve](http://www.cityofpaloalto.org/gov/depts/csd/parks/preserves/arastradero/) (10 minute drive)
 
-Foot massage at the Happy Feet Foot Spa. $25/pp/hour. No reservations required.
+Foot massage at the Happy Feet Foot Spa. $30/pp/hour (+tip). No reservations required, but worth it to call 30 minutes ahead.
 
 Duck Pond in East Palo Alto
 
